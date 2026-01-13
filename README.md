@@ -14,6 +14,7 @@ This project analyzes a dataset of financial complaints to identify which compan
 • Trend: Complaints spiked significantly between 2011 and 2013, with different banks peaking in different years.
 
 **Tools Used**
+
 • SQL: For data exploratory
 
 • Tableau: For data visualization and dashboard design.
