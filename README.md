@@ -17,6 +17,7 @@ This project analyzes a dataset of financial complaints to identify which compan
 • Trend: Complaints spiked significantly between 2011 and 2013, with different banks peaking in different years.
 
 **Tools Used**
+
 • Python (pandas): For data wrangling 
 
 • SQL: For data exploratory
