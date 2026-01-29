@@ -24,8 +24,7 @@ This project analyzes a dataset of financial complaints to identify which compan
 • Tableau: For data visualization and dashboard design.
 ## Data Visualization
 
-![Consumer Complaints Dashboard](images/complaints_dashboard.png)
+<img width="1394" height="664" alt="images:complaints_dashboard" src="https://github.com/user-attachments/assets/337b76de-1d00-44f9-b4fd-2f7714656144" />
 
 🔗 **Interactive Tableau Dashboard:**  
-[View on Tableau Public]([https://public.tableau.com/your-link-here](https://public.tableau.com/app/profile/yenifer.taveras/vizzes))
-
+[View on Tableau Public](https://public.tableau.com/app/profile/yenifer.taveras/vizzes)
